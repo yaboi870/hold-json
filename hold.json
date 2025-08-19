@@ -1,5 +1,15 @@
 [
   {
+    "id": 1755646762790,
+    "author": "luke 2",
+    "content": "hgkg",
+    "date": "20/08/2025, 00:39:22",
+    "likes": 0,
+    "dislikes": 0,
+    "userLiked": false,
+    "userDisliked": false
+  },
+  {
     "id": 1755646403568,
     "author": "asas",
     "content": "wasd",
@@ -14,9 +24,9 @@
     "author": "yo",
     "content": "12",
     "date": "20/08/2025, 00:30:33",
-    "likes": 1,
+    "likes": 0,
     "dislikes": 0,
-    "userLiked": true,
+    "userLiked": false,
     "userDisliked": false
   },
   {
