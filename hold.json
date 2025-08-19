@@ -1,13 +1,13 @@
 [
   {
-    "id": 1755644337585,
-    "author": "yo",
-    "content": "as",
-    "date": "19/08/2025, 23:58:57",
+    "id": 1755644607967,
+    "author": "bob",
+    "content": "232",
+    "date": "20/08/2025, 00:03:27",
     "likes": 0,
-    "dislikes": 1,
+    "dislikes": 0,
     "userLiked": false,
-    "userDisliked": true,
+    "userDisliked": false,
     "pixelData": null
   }
 ]
