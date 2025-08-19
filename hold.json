@@ -4,10 +4,10 @@
     "author": "yo",
     "content": "as",
     "date": "19/08/2025, 23:58:57",
-    "likes": 1,
-    "dislikes": 0,
-    "userLiked": true,
-    "userDisliked": false,
+    "likes": 0,
+    "dislikes": 1,
+    "userLiked": false,
+    "userDisliked": true,
     "pixelData": null
   }
 ]
