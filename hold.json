@@ -4,9 +4,9 @@
     "author": "luke 2",
     "content": "hgkg",
     "date": "20/08/2025, 00:39:22",
-    "likes": 0,
+    "likes": 1,
     "dislikes": 0,
-    "userLiked": false,
+    "userLiked": true,
     "userDisliked": false
   },
   {
@@ -25,9 +25,9 @@
     "content": "12",
     "date": "20/08/2025, 00:30:33",
     "likes": 0,
-    "dislikes": 1,
+    "dislikes": 0,
     "userLiked": false,
-    "userDisliked": true
+    "userDisliked": false
   },
   {
     "id": 1755644897877,
